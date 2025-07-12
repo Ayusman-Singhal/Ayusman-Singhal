@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Minecraft Mod for servers to maintain rules.<br>🌱 I’m currently learning netty to connect my mod to a database for better control.<br>💬 I also love making bots for automation of daily  task hence why i love python coding too.<br>⚡I am always  trying to learn new things so that I can know everything.
+🔭 I am currently learning Javascript and its sub modules.<br>🌱 I also coded a Minecraft Mod for servers to maintain rule.<br>💬 I also love making bots for automation of daily  task hence why i love python coding too.<br>⚡I am always  trying to learn new things so that I can know everything.
 
 
 # 💻 Tech Stack:
