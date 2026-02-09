@@ -10,13 +10,13 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Ayusman-Singhal&theme=dark&hide_border=false" height="165"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayusman-Singhal&theme=dark&show_icons=true&hide_border=false&count_private=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusman-Singhal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165"/>
-</p>
+</p> -->
 
 # 🔥 Github Contribution Graph
 
