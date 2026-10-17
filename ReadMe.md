@@ -1,8 +1,25 @@
 # 💫 About Me:
-🔭 I am currently learning Javascript and its sub modules.<br>🌱 I also coded a Minecraft Mod for servers to maintain rule.<br>💬 I also love making bots for automation of daily  task hence why i love python coding too.<br>⚡I am always  trying to learn new things so that I can know everything.
+### Hi, I'm Ayusman Singhal (Arhenniuss)
 
-### Projects
-- 🎮 [MediaHouse](https://media-house.studio)  Managed gaming sponsorship brokerage connecting Minecraft & Roblox creators with server owners
+Freelance web & app developer in Delhi, India. I build **business websites** (Next.js/React),
+**Minecraft server websites** (custom + templates), and **Windows desktop apps** (published
+on the Microsoft Store, 20,000+ downloads).
+
+🌐 Portfolio: **[arhenniuss.is-a.dev](https://www.arhenniuss.is-a.dev)**
+💼 Services & pricing: [arhenniuss.is-a.dev/services](https://www.arhenniuss.is-a.dev/services)
+
+#### Highlights
+- 🎮 **WinterCrest MC** - custom Ghost theme site for a UK Minecraft community
+- 🕹 **HobbyServers** - game hosting company website
+- 🚀 **MediaHouse** - managed gaming sponsorship agency site
+- 🛠 **My Technician** - Windows utility product site + diagnostic app on the Microsoft Store
+- 🧩 **Recoverix** - Rust data-recovery app for Windows
+- 🔧 **WinGit** - GUI for the Windows Package Manager (Tauri v2)
+- 📦 Open source: merged PRs to [rembg](https://github.com/danielgatis/rembg) (#756) and openscreen (#549)
+
+📚 I also write guides - [How to make a Minecraft server website](https://www.arhenniuss.is-a.dev/guides/how-to-make-a-minecraft-server-website)
+
+📮 Open to freelance projects: ayusmansinghal@gmail.com
 
 
 # 💻 Tech Stack:
