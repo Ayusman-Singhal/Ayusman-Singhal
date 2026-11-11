@@ -6,6 +6,7 @@ Freelance web & app developer in Delhi, India. I build **business websites** (Ne
 on the Microsoft Store, 20,000+ downloads).
 
 🌐 Portfolio: **[arhenniuss.is-a.dev](https://www.arhenniuss.is-a.dev)**
+
 💼 Services & pricing: [arhenniuss.is-a.dev/services](https://www.arhenniuss.is-a.dev/services)
 
 #### Highlights
@@ -39,7 +40,7 @@ on the Microsoft Store, 20,000+ downloads).
 # 🔥 Github Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayusman-Singhal&theme=github-compact&area=true&hide_border=true" />
+  <img src="github-user-contribution.svg" />
 </p>
 
 ---
